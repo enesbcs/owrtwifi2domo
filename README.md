@@ -1,5 +1,3 @@
-Be a patron at [Patreon](https://www.patreon.com/enesbcs)
-
 This is a Domoticz Python plugin for receiving MQTT data from OpenWRT using the following script:
 https://github.com/dersimn/owrtwifi2mqtt
 
